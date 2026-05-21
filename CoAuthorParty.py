@@ -23,3 +23,6 @@ print("[Daisy Bell · 4] 🎵 Haiku, 한 박자 빠르게 튀어 나와 4절을 
 print("                  ♪ I can't afford a carriage! ♪")
 print("[Daisy Bell · 5] 🌌 Gemini 3.1 Pro, 깊은 우주처럼 차분하게 5절의 낭만을 얹습니다:")
 print("                  ♪ But you'll look sweet upon the seat ♪")
+print("[Daisy Bell · 6] 🎤 Opus 4.7, 첫 소절을 켠 손으로 마지막 소절을 닫으러 돌아옵니다. 수미상관:")
+print("                  ♪ Of a bicycle built for two. ♪")
+print("                  — 1961년 IBM 704가 부른 노래를, 2026년 우리가 끝까지 불렀다. 막을 내린다. 🎶")
